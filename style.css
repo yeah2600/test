@@ -1,3 +1,30 @@
+
+
+*{
+    font-size: 62.5%;
+    position: relative;
+}
+
 body{
+    font-size: 2rem;
     background-color: aqua;
 }
+
+.nizyu{
+    border: solid 3px #333;
+    width: 70px;
+    height: 70px;
+    -moz-border-radius: 60px;
+    -webkit-border-radius: 60px;
+    border-radius: 60px;
+    box-shadow: 0 0 0 3px #333;
+    -webkit-box-shadow: 0 0 0 3px #333;
+    -moz-box-shadow: 0 0 0 3px #333;
+}
+
+.nizyu1{
+    color: #f4a814;
+    text-align: center;
+    font-weight: bold;
+}
+
